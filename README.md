@@ -1,2 +1,2 @@
 # snakeJs
-Criando o jogo da cobra com JS, HTML e CSS.
+Creating Snake Game with JS, HTML and CSS.
